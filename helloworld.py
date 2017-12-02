@@ -1,3 +1,4 @@
 
-print('hello, Dhiego!')
+nome = input('Nome: ')
+print('hello, '+ nome +'!')
 
