@@ -1,4 +1,5 @@
 
-nome = input('Nome: ')
-print('hello, '+ nome +'!')
+nome = input('seu nome: ')
+print('olá, '+ nome +', bom dia!')
+print('até mais!')
 
